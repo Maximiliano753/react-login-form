@@ -2,9 +2,9 @@
 import React, { useState } from 'react';
 import './LoginSignup.css'
 
-import user_icon from 'C:/Users/Admin/Desktop/ЧистаяВерстка/login-form-react/src/Components/Assets/user.png'
-import password_icon from 'C:/Users/Admin/Desktop/ЧистаяВерстка/login-form-react/src/Components/Assets/pass.png'
-import email_icon from 'C:/Users/Admin/Desktop/ЧистаяВерстка/login-form-react/src/Components/Assets/email.png'
+import user_icon from '../Assets/user.png'
+import password_icon from '../Assets/pass.png'
+import email_icon from '../Assets/email.png'
 
 
 const LoginSignup = () => {
